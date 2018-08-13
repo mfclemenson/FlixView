@@ -23,7 +23,7 @@ namespace FlixView
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-yeti3.css",
                       "~/Content/site.css"));
         }
     }
